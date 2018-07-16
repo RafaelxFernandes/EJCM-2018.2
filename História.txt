@@ -1,7 +1,15 @@
-Essa atividade deverá ser feita em dupla. Você e seu colega desenvolverão, remotamente, duas histórias em conjunto. Uma será iniciada por você neste computador, numa branch com seu nome. A outra história pela outra pessoa, numa branch feita por ela.
+﻿Essa atividade deverá ser feita em dupla. Você e seu colega desenvolverão, remotamente, duas histórias em conjunto. Uma será iniciada por você neste computador, numa branch com seu nome. A outra história pela outra pessoa, numa branch feita por ela.
 
 A ideia é que vocês escrevam apenas um parágrafo por vez, alternando entre escrever um parágrafo na sua história e o seguinte na do(a) colega.
 
 Quando terminarem de fazer um parágrafo, vocês deverão dar Push no git e esperar o(a) colega terminar de escrever o dele(a), e então, dar um Pull na branch deles e continuar a escrever na história deles de onde tiverem parado. 
 
 Você tem total liberdade para modificar trechos escritos por seu(ua) parceiro(a) na parte deles, mas vocês precisarão chegar a um acordo do que manter na hora de resolver os conflitos.
+
+História de Rafael e Carla
+
+Era um dia comum nas ruas de Paris.
+Saphira havia encontrado um desacordado no caminho da padaria, o levou para casa e cuidou de seus ferimentos, que felizmente eram leves.
+
+Quando o sujeito acordou, Saphira perguntou seu nome e descobriu que ele era mudo. Ao perceber que ele era incapaz de falar palavra alguma, ela passou meses aprendendo libras para se comunicar.
+
